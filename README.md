@@ -1,4 +1,4 @@
-# SecureTaskManagerAPI
+# 🔒 SecureTaskManagerAPI
 
 A secure Task Manager REST API with JWT and Google authentication, robust error handling, and best security practices.
 
